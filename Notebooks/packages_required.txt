@@ -1,0 +1,29 @@
+
+packages required:
+
+pydicom
+tensorboardX
+numpy
+h5py
+scipy.io
+tensorflow 2.2
+skimage.io
+matplotlib
+IPython.display
+os
+time
+IPython
+keras
+matplotlib.pyplot
+tensorflow.keras.models
+skimage.transform
+skimage.data
+skimage.transform
+
+
+
+
+
+
+
+
